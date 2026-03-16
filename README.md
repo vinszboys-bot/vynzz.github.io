@@ -5,7 +5,7 @@ payment
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1.0">
-<title>RIAN-SAMA Payment</title>
+<title>VYNZZ STORE Payment</title>
 
 <style>
 body{
